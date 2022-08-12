@@ -4,7 +4,7 @@
     height: auto;
     border: 3px solid rgb(248, 248, 248);
     border-radius: 0.5rem;
-    background-color: rgb(119, 220, 117);
+    background-color: rgb(150, 100, 150);
 
     margin: auto;
     margin-top: 5rem;
@@ -22,7 +22,7 @@
     border: 3px solid rgb(255, 255, 255);
     font-size: 0rem;
     margin: 0.5rem;
-    background-color:  rgb(207, 169, 244);
+    background-color:  rgb(100, 170, 245);
     cursor: pointer;
 
     display: flex;
@@ -34,7 +34,7 @@
     transition: 1s linear;
     font-size:3rem;
     transition:1s;
-    background-color: rgb(149, 68, 179);
+    background-color: rgb(250, 110, 250);
     color:white;
     -webkit-transform: perspective(150px) rotateY(45deg);
     transform: rotateY(180deg);
